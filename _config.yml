@@ -1,0 +1,29 @@
+name: lifesolution.org
+favicon: null
+layout_spectrum: 0.664878067560494
+typography_spectrum: 0.26438024500384927
+title: Lifesolution.org
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.08745377557352185
+  lightness: 0.013218396110460162
+  saturation: 0.48584566288627684
+  rhythmicContrast: 0.7551538697443902
+purpose: []
